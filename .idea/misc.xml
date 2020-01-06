@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/Itaobao-manage" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/cus/pom.xml" />
+        <option value="$PROJECT_DIR$/customer-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/customer-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/customer/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-2/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-3/pom.xml" />
+        <option value="$PROJECT_DIR$/hystrix-dash/pom.xml" />
+        <option value="$PROJECT_DIR$/provider-dash/pom.xml" />
+        <option value="$PROJECT_DIR$/provider-hytrix/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

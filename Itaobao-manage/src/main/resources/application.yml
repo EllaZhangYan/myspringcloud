@@ -1,0 +1,15 @@
+server:
+  port: 5200
+spring:
+  application:
+    name: Itaobao-manage      # 注册到eureka后可以通过此名称调用服务
+  mvc:
+    view:
+      prefix: /WEB-INF/
+      suffix: .jsp
+    static-path-pattern: /**
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: 123
+    url: jdbc:mysql://localhost:3306/itaobao?useUnicode = true&characterEncoding=UTF-8

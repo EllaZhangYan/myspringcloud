@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Itaobao-manage" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cus" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/customer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/customer-hystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/customer-ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hystrix-dash" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider-dash" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider-hytrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuul" charset="UTF-8" />
+  </component>
+</project>

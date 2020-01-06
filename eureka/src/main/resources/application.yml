@@ -1,0 +1,10 @@
+server:
+  port: 8888
+eureka:
+  instance:
+     hostname: eureka01   # name和host文件保存一致  类似于域名
+  client:
+       register-with-eureka: false   # 本微服务不需要向eureka server 注册  本身就是server
+       fetch-registry: false    #  告诉程序 本身就是eureka server   其他的微服务向我注册
+       service-url:       #指明eureka的地址
+         defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/,http://eureka02:8882/eureka/,http://eureka03:8883/eureka
