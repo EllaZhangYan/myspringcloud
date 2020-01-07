@@ -57,7 +57,7 @@
           <a href="#"  >商品管理</a>
           <dl class="layui-nav-child">
           <!-- 一般a 链接 controller -->
-            <dd><a href="${path}/role/index" target="main">新增商品</a></dd>
+            <dd><a href="${path}/product/add" target="main">新增商品</a></dd>
             <dd><a href="javascript:;">查询商品</a></dd>
               <dd><a href="javascript:;">规格参数</a></dd>
           </dl>

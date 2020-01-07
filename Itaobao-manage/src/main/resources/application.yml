@@ -13,3 +13,10 @@ spring:
     username: root
     password: 123
     url: jdbc:mysql://localhost:3306/itaobao?useUnicode = true&characterEncoding=UTF-8
+ftp_address: 192.168.1.139
+ftp_port: 21
+ftp_username: admin
+ftp_password: admin
+ftp_base_path : /home/admin  # file upload address
+
+
