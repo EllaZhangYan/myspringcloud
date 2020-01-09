@@ -48,4 +48,8 @@ public class MainController {
     public String addProduct(){
       return "addProduct";
     }
+    @GetMapping("cat")
+    public String cat(){
+        return "cat";
+    }
 }
